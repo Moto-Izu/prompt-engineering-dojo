@@ -82,7 +82,7 @@ Spotify MCPとWeb Search APIを活用して、週次ランキングの自動分�
 
 ## 📝 週次レポート構成案（バイリンガル対応）
 
-```markdown
+```
 ## 📈 This Week's Rising Hits / 今週の急上昇楽曲
 - Track: [タイトル]  
 - Artist: [アーティスト]  
