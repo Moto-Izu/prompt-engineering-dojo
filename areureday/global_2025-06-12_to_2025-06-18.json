@@ -1,0 +1,806 @@
+{
+  "region": "global",
+  "week": "2025-06-12_to_2025-06-18",
+  "videos": [
+    {
+      "rank": 1,
+      "title": "Die With A Smile",
+      "artist": "Lady Gaga & ブルーノ・マーズ",
+      "last_week": "1",
+      "weeks_on_chart": 43,
+      "view_count": 45529565
+    },
+    {
+      "rank": 2,
+      "title": "APT.",
+      "artist": "ロゼ & ブルーノ・マーズ",
+      "last_week": "2",
+      "weeks_on_chart": 34,
+      "view_count": 39006138
+    },
+    {
+      "rank": 3,
+      "title": "PASSO BEM SOLTO (Slowed)",
+      "artist": "ATLXS",
+      "last_week": "3",
+      "weeks_on_chart": 12,
+      "view_count": 36054501
+    },
+    {
+      "rank": 4,
+      "title": "Shaky",
+      "artist": "Sanju Rathod & G-Spark",
+      "last_week": "6",
+      "weeks_on_chart": 4,
+      "view_count": 33779242
+    },
+    {
+      "rank": 5,
+      "title": "Sapphire",
+      "artist": "エド・シーラン",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 32336205
+    },
+    {
+      "rank": 6,
+      "title": "El Mayor de los Ranas",
+      "artist": "Victor Valverde & Jr Torres",
+      "last_week": "4",
+      "weeks_on_chart": 21,
+      "view_count": 31383969
+    },
+    {
+      "rank": 7,
+      "title": "Laal Pari",
+      "artist": "Yo Yo Honey Singh & Simar Kaur",
+      "last_week": "17",
+      "weeks_on_chart": 6,
+      "view_count": 27657070
+    },
+    {
+      "rank": 8,
+      "title": "Shake It To The Max (FLY) (Remix)",
+      "artist": "Moliy , Silent Addy , Skillibeng &",
+      "last_week": "5",
+      "weeks_on_chart": 6,
+      "view_count": 26791805
+    },
+    {
+      "rank": 9,
+      "title": "Manchild",
+      "artist": "サブリナ・カーペンター",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 25476027
+    },
+    {
+      "rank": 10,
+      "title": "Aaj Ki Raat",
+      "artist": "Madhubanti Bagchi , Divya Kumar",
+      "last_week": "7",
+      "weeks_on_chart": 46,
+      "view_count": 24972477
+    },
+    {
+      "rank": 11,
+      "title": "Muththa Mazhai (Live)",
+      "artist": "A. R. Rahman , Dhee & Siva Ananth",
+      "last_week": "22",
+      "weeks_on_chart": 2,
+      "view_count": 23367080
+    },
+    {
+      "rank": 12,
+      "title": "BIRDS OF A FEATHER",
+      "artist": "ビリー・アイリッシュ",
+      "last_week": "10",
+      "weeks_on_chart": 52,
+      "view_count": 21257411
+    },
+    {
+      "rank": 13,
+      "title": "RANU BOMBAI KI RANU",
+      "artist": "Ramu Rathod , Singer Prabha &",
+      "last_week": "11",
+      "weeks_on_chart": 19,
+      "view_count": 21017943
+    },
+    {
+      "rank": 14,
+      "title": "Pal Pal",
+      "artist": "Afusic & AliSoomroMusic",
+      "last_week": "12",
+      "weeks_on_chart": 10,
+      "view_count": 20986441
+    },
+    {
+      "rank": 15,
+      "title": "La Plena (W Sound 05)",
+      "artist": "W Sound , Beéle & Ovy On The Drums",
+      "last_week": "8",
+      "weeks_on_chart": 15,
+      "view_count": 20522520
+    },
+    {
+      "rank": 16,
+      "title": "Raanjhan",
+      "artist": "Parampara Thakur",
+      "last_week": "13",
+      "weeks_on_chart": 30,
+      "view_count": 20403051
+    },
+    {
+      "rank": 17,
+      "title": "Jhol",
+      "artist": "Maanu & Annural Khalid",
+      "last_week": "9",
+      "weeks_on_chart": 18,
+      "view_count": 19463116
+    },
+    {
+      "rank": 18,
+      "title": "LUNA BALA (Slowed)",
+      "artist": "Yb Wasg'ood & Ariis",
+      "last_week": "16",
+      "weeks_on_chart": 5,
+      "view_count": 18896137
+    },
+    {
+      "rank": 19,
+      "title": "خطية | Khtaya",
+      "artist": "Bessan Ismail & Fouad Jned",
+      "last_week": "20",
+      "weeks_on_chart": 5,
+      "view_count": 18829089
+    },
+    {
+      "rank": 20,
+      "title": "Lose Control (Live)",
+      "artist": "テディ・スウィムズ",
+      "last_week": "-",
+      "weeks_on_chart": 55,
+      "view_count": 18751541
+    },
+    {
+      "rank": 21,
+      "title": "Pretty Little Baby",
+      "artist": "コニー・フランシス",
+      "last_week": "21",
+      "weeks_on_chart": 4,
+      "view_count": 18678687
+    },
+    {
+      "rank": 22,
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "last_week": "23",
+      "weeks_on_chart": 11,
+      "view_count": 18530851
+    },
+    {
+      "rank": 23,
+      "title": "TU SANCHO",
+      "artist": "Fuerza Regida",
+      "last_week": "28",
+      "weeks_on_chart": 3,
+      "view_count": 18347209
+    },
+    {
+      "rank": 24,
+      "title": "Teri Ramjhol Bole Gi (feat. Kay D & Aarohi Raghav)",
+      "artist": "Masoom Sharma & Sheenam Katholic",
+      "last_week": "15",
+      "weeks_on_chart": 14,
+      "view_count": 17626042
+    },
+    {
+      "rank": 25,
+      "title": "like JENNIE",
+      "artist": "ジェニー",
+      "last_week": "19",
+      "weeks_on_chart": 14,
+      "view_count": 16629813
+    },
+    {
+      "rank": 26,
+      "title": "Si Antes Te Hubiera Conocido",
+      "artist": "KAROL G",
+      "last_week": "26",
+      "weeks_on_chart": 51,
+      "view_count": 16437738
+    },
+    {
+      "rank": 27,
+      "title": "Сигма Бой",
+      "artist": "Betsy & Мария Янковская",
+      "last_week": "25",
+      "weeks_on_chart": 26,
+      "view_count": 16213701
+    },
+    {
+      "rank": 28,
+      "title": "En Privado",
+      "artist": "Xavi & マヌエル・トゥリソ",
+      "last_week": "27",
+      "weeks_on_chart": 16,
+      "view_count": 16137512
+    },
+    {
+      "rank": 29,
+      "title": "Brainrot Rap",
+      "artist": "Party Tunes",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 15742158
+    },
+    {
+      "rank": 30,
+      "title": "Mangu (feat. Charita Utami)",
+      "artist": "Fourtwnty",
+      "last_week": "14",
+      "weeks_on_chart": 8,
+      "view_count": 15719942
+    },
+    {
+      "rank": 31,
+      "title": "Triple Lavada",
+      "artist": "Esau Ortiz",
+      "last_week": "18",
+      "weeks_on_chart": 9,
+      "view_count": 15579233
+    },
+    {
+      "rank": 32,
+      "title": "Waka Waka (This Time for Africa) (feat. フレッシュリーグラウンド)",
+      "artist": "Shakira",
+      "last_week": "37",
+      "weeks_on_chart": 40,
+      "view_count": 15575519
+    },
+    {
+      "rank": 33,
+      "title": "King VS Queen",
+      "artist": "Tuntun Yadav & Goldi Yadav",
+      "last_week": "24",
+      "weeks_on_chart": 7,
+      "view_count": 14843670
+    },
+    {
+      "rank": 34,
+      "title": "Gnarly",
+      "artist": "KATSEYE",
+      "last_week": "31",
+      "weeks_on_chart": 6,
+      "view_count": 14620537
+    },
+    {
+      "rank": 35,
+      "title": "no tiene sentido",
+      "artist": "Beéle",
+      "last_week": "41",
+      "weeks_on_chart": 3,
+      "view_count": 14573228
+    },
+    {
+      "rank": 36,
+      "title": "दिलवा ले जा रुमाल मे",
+      "artist": "Pawan Singh",
+      "last_week": "30",
+      "weeks_on_chart": 8,
+      "view_count": 14414367
+    },
+    {
+      "rank": 37,
+      "title": "Maleket Gamal El Kon",
+      "artist": "ターメル・ホスニー & AL SHAMI",
+      "last_week": "39",
+      "weeks_on_chart": 3,
+      "view_count": 14353359
+    },
+    {
+      "rank": 38,
+      "title": "MONTAGEM TOMADA (Slowed)",
+      "artist": "MXZI",
+      "last_week": "29",
+      "weeks_on_chart": 10,
+      "view_count": 14205856
+    },
+    {
+      "rank": 39,
+      "title": "Y Que Fue?",
+      "artist": "ドン・ミゲロ",
+      "last_week": "40",
+      "weeks_on_chart": 5,
+      "view_count": 14150997
+    },
+    {
+      "rank": 40,
+      "title": "Triple Lavada (Remix) (feat. Víctor Mendivil)",
+      "artist": "Esau Ortiz , Luis R Conriquez , Óscar Maydon",
+      "last_week": "43",
+      "weeks_on_chart": 2,
+      "view_count": 13754736
+    },
+    {
+      "rank": 41,
+      "title": "Te Quería Ver",
+      "artist": "Alemán & Neton Vega",
+      "last_week": "32",
+      "weeks_on_chart": 18,
+      "view_count": 13704864
+    },
+    {
+      "rank": 42,
+      "title": "Khatole 2",
+      "artist": "Masoom Sharma",
+      "last_week": "34",
+      "weeks_on_chart": 12,
+      "view_count": 13683306
+    },
+    {
+      "rank": 43,
+      "title": "Qatal",
+      "artist": "グル・ランダワ , Sanjoy & Gill Machhrai",
+      "last_week": "33",
+      "weeks_on_chart": 6,
+      "view_count": 13497348
+    },
+    {
+      "rank": 44,
+      "title": "Dil Laga Liya",
+      "artist": "アルカ・ヤグニック & Udit Narayan",
+      "last_week": "-",
+      "weeks_on_chart": 35,
+      "view_count": 13236695
+    },
+    {
+      "rank": 45,
+      "title": "blue",
+      "artist": "yung kai",
+      "last_week": "38",
+      "weeks_on_chart": 28,
+      "view_count": 12721695
+    },
+    {
+      "rank": 46,
+      "title": "Uyi Amma",
+      "artist": "アミット・トリヴェディ ,",
+      "last_week": "35",
+      "weeks_on_chart": 22,
+      "view_count": 12632953
+    },
+    {
+      "rank": 47,
+      "title": "بتمنى أنساك",
+      "artist": "Sherine",
+      "last_week": "36",
+      "weeks_on_chart": 4,
+      "view_count": 12018790
+    },
+    {
+      "rank": 48,
+      "title": "Marlboro Rojo",
+      "artist": "Fuerza Regida",
+      "last_week": "47",
+      "weeks_on_chart": 4,
+      "view_count": 11919603
+    },
+    {
+      "rank": 49,
+      "title": "Supreme",
+      "artist": "Shubh",
+      "last_week": "46",
+      "weeks_on_chart": 7,
+      "view_count": 11904130
+    },
+    {
+      "rank": 50,
+      "title": "MONTAGEM BAILÃO",
+      "artist": "repsaj , ATLXS & Mc Jhey",
+      "last_week": "51",
+      "weeks_on_chart": 4,
+      "view_count": 11474278
+    },
+    {
+      "rank": 51,
+      "title": "COQUETA",
+      "artist": "Fuerza Regida & Grupo Frontera",
+      "last_week": "45",
+      "weeks_on_chart": 7,
+      "view_count": 11205556
+    },
+    {
+      "rank": 52,
+      "title": "Con Otra",
+      "artist": "Cazzu",
+      "last_week": "53",
+      "weeks_on_chart": 12,
+      "view_count": 11172804
+    },
+    {
+      "rank": 53,
+      "title": "Linda Mujer",
+      "artist": "Ian Cordova",
+      "last_week": "57",
+      "weeks_on_chart": 3,
+      "view_count": 11058373
+    },
+    {
+      "rank": 54,
+      "title": "Minnalvala",
+      "artist": "シッド・スリラン & Sithara Krishnakumar",
+      "last_week": "54",
+      "weeks_on_chart": 3,
+      "view_count": 10866380
+    },
+    {
+      "rank": 55,
+      "title": "quédate",
+      "artist": "Beéle",
+      "last_week": "61",
+      "weeks_on_chart": 3,
+      "view_count": 10776545
+    },
+    {
+      "rank": 56,
+      "title": "OIIA OIIA (Spinning Cat)",
+      "artist": "W&W",
+      "last_week": "55",
+      "weeks_on_chart": 18,
+      "view_count": 10624810
+    },
+    {
+      "rank": 57,
+      "title": "top diesel",
+      "artist": "Beéle",
+      "last_week": "89",
+      "weeks_on_chart": 2,
+      "view_count": 10596690
+    },
+    {
+      "rank": 58,
+      "title": "La Pantera",
+      "artist": "Marcos Villalobos , Alan Arrieta &",
+      "last_week": "58",
+      "weeks_on_chart": 5,
+      "view_count": 10498675
+    },
+    {
+      "rank": 59,
+      "title": "Calm Down",
+      "artist": "Rema & Selena Gomez",
+      "last_week": "-",
+      "weeks_on_chart": 56,
+      "view_count": 10469055
+    },
+    {
+      "rank": 60,
+      "title": "Bad Desire (With or Without You)",
+      "artist": "ENHYPEN",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 10460262
+    },
+    {
+      "rank": 61,
+      "title": "Anxiety",
+      "artist": "Doechii",
+      "last_week": "48",
+      "weeks_on_chart": 14,
+      "view_count": 10440751
+    },
+    {
+      "rank": 62,
+      "title": "LOS VOLTAJE (Extended Version)",
+      "artist": "Sayfalse , Yb Wasg'ood & Ariis",
+      "last_week": "-",
+      "weeks_on_chart": 2,
+      "view_count": 10376233
+    },
+    {
+      "rank": 63,
+      "title": "চাঁদ মামা",
+      "artist": "Pritom Hasan & Dola Rahman",
+      "last_week": "86",
+      "weeks_on_chart": 6,
+      "view_count": 10255587
+    },
+    {
+      "rank": 64,
+      "title": "Chunnari Chunnari",
+      "artist": "アビジート・バッタチャリヤ & アヌラーダ・シュリラーム",
+      "last_week": "59",
+      "weeks_on_chart": 11,
+      "view_count": 10229706
+    },
+    {
+      "rank": 65,
+      "title": "Kanimaa",
+      "artist": "サンソッシュ・ナラヤナン & The Indian Choral Ensemble",
+      "last_week": "50",
+      "weeks_on_chart": 8,
+      "view_count": 10128016
+    },
+    {
+      "rank": 66,
+      "title": "Stecu",
+      "artist": "Faris Adam",
+      "last_week": "52",
+      "weeks_on_chart": 10,
+      "view_count": 9965264
+    },
+    {
+      "rank": 67,
+      "title": "Creep",
+      "artist": "レディオヘッド",
+      "last_week": "64",
+      "weeks_on_chart": 11,
+      "view_count": 9651631
+    },
+    {
+      "rank": 68,
+      "title": "lovely",
+      "artist": "ビリー・アイリッシュ & Khalid",
+      "last_week": "66",
+      "weeks_on_chart": 35,
+      "view_count": 9372399
+    },
+    {
+      "rank": 69,
+      "title": "MATUSHKA ULTRAFUNK",
+      "artist": "satirin , FUNK DEMON & EVO",
+      "last_week": "62",
+      "weeks_on_chart": 12,
+      "view_count": 9369362
+    },
+    {
+      "rank": 70,
+      "title": "We Don't Talk Anymore (feat. Selena Gomez)",
+      "artist": "Charlie Puth",
+      "last_week": "-",
+      "weeks_on_chart": 73,
+      "view_count": 9287669
+    },
+    {
+      "rank": 71,
+      "title": "Nagan Si Lugai",
+      "artist": "Farmani Naaz & Manish Tyagi Ktc",
+      "last_week": "72",
+      "weeks_on_chart": 10,
+      "view_count": 9263799
+    },
+    {
+      "rank": 72,
+      "title": "أحلى رسمه",
+      "artist": "ファデル・シャケール",
+      "last_week": "80",
+      "weeks_on_chart": 5,
+      "view_count": 9190329
+    },
+    {
+      "rank": 73,
+      "title": "Es Un Secreto (Remix) (feat. Akon & テゴ・カルデロン)",
+      "artist": "プランB",
+      "last_week": "82",
+      "weeks_on_chart": 6,
+      "view_count": 9169189
+    },
+    {
+      "rank": 74,
+      "title": "Every Breath You Take",
+      "artist": "ポリス",
+      "last_week": "65",
+      "weeks_on_chart": 15,
+      "view_count": 9165029
+    },
+    {
+      "rank": 75,
+      "title": "Stereo Love",
+      "artist": "エドワード・マヤ & ヴィカ・ジグリーナ",
+      "last_week": "71",
+      "weeks_on_chart": 19,
+      "view_count": 9068524
+    },
+    {
+      "rank": 76,
+      "title": "Show Me Love",
+      "artist": "WizTheMc & bees & honey",
+      "last_week": "84",
+      "weeks_on_chart": 5,
+      "view_count": 8977676
+    },
+    {
+      "rank": 77,
+      "title": "Vidrado Em Você",
+      "artist": "DJ Guuga & Mc Livinho",
+      "last_week": "56",
+      "weeks_on_chart": 9,
+      "view_count": 8962993
+    },
+    {
+      "rank": 78,
+      "title": "TU TU TU",
+      "artist": "CLAVE ESPECIAL & Edgardo Nuñez",
+      "last_week": "74",
+      "weeks_on_chart": 5,
+      "view_count": 8833377
+    },
+    {
+      "rank": 79,
+      "title": "Vita Fer",
+      "artist": "Los Dareyes De La Sierra & Tito Double P",
+      "last_week": "67",
+      "weeks_on_chart": 7,
+      "view_count": 8821870
+    },
+    {
+      "rank": 80,
+      "title": "NINAO",
+      "artist": "GIMS",
+      "last_week": "77",
+      "weeks_on_chart": 14,
+      "view_count": 8809670
+    },
+    {
+      "rank": 81,
+      "title": "Ay Mamita",
+      "artist": "Alan Arrieta",
+      "last_week": "95",
+      "weeks_on_chart": 2,
+      "view_count": 8659739
+    },
+    {
+      "rank": 82,
+      "title": "Señorita",
+      "artist": "ショーン・メンデス & カミラ・カベロ",
+      "last_week": "-",
+      "weeks_on_chart": 58,
+      "view_count": 8575982
+    },
+    {
+      "rank": 83,
+      "title": "Abracadabra",
+      "artist": "Lady Gaga",
+      "last_week": "69",
+      "weeks_on_chart": 19,
+      "view_count": 8562543
+    },
+    {
+      "rank": 84,
+      "title": "Tum Jo Aaye",
+      "artist": "プリータム , ラハット・ファテ・アリ・カーン",
+      "last_week": "70",
+      "weeks_on_chart": 13,
+      "view_count": 8484544
+    },
+    {
+      "rank": 85,
+      "title": "Levitating (feat. ダベイビー)",
+      "artist": "デュア・リパ",
+      "last_week": "-",
+      "weeks_on_chart": 52,
+      "view_count": 8400668
+    },
+    {
+      "rank": 86,
+      "title": "Amigos? No.",
+      "artist": "Óscar Maydon & Neton Vega",
+      "last_week": "75",
+      "weeks_on_chart": 4,
+      "view_count": 8385987
+    },
+    {
+      "rank": 87,
+      "title": "The Night We Met",
+      "artist": "Lord Huron",
+      "last_week": "96",
+      "weeks_on_chart": 15,
+      "view_count": 8368712
+    },
+    {
+      "rank": 88,
+      "title": "TATTOO",
+      "artist": "Tito Double P",
+      "last_week": "73",
+      "weeks_on_chart": 15,
+      "view_count": 8317308
+    },
+    {
+      "rank": 89,
+      "title": "Main Nachdi",
+      "artist": "Nimrat Khaira , Jasmeen Akhtar ,",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 8285320
+    },
+    {
+      "rank": 90,
+      "title": "Too Sweet",
+      "artist": "ホージア",
+      "last_week": "-",
+      "weeks_on_chart": 23,
+      "view_count": 8277881
+    },
+    {
+      "rank": 91,
+      "title": "Finding Her",
+      "artist": "kushagra , Bharath & Saaheal",
+      "last_week": "83",
+      "weeks_on_chart": 8,
+      "view_count": 8232144
+    },
+    {
+      "rank": 92,
+      "title": "Premalo",
+      "artist": "アヌラグ・クルカルニ , Sameera Bharadwaj",
+      "last_week": "68",
+      "weeks_on_chart": 13,
+      "view_count": 8168661
+    },
+    {
+      "rank": 93,
+      "title": "All the Stars",
+      "artist": "ケンドリック・ラマー & SZA",
+      "last_week": "93",
+      "weeks_on_chart": 16,
+      "view_count": 8159463
+    },
+    {
+      "rank": 94,
+      "title": "7 DIAS",
+      "artist": "Gabito Ballesteros & Tito Double P",
+      "last_week": "78",
+      "weeks_on_chart": 14,
+      "view_count": 8106749
+    },
+    {
+      "rank": 95,
+      "title": "Chikni Chameli",
+      "artist": "アジャイ=アトゥル & シュレヤ・ゴシャル",
+      "last_week": "94",
+      "weeks_on_chart": 5,
+      "view_count": 8056848
+    },
+    {
+      "rank": 96,
+      "title": "Hips Don't Lie (feat. ワイクリフ・ジョン)",
+      "artist": "Shakira",
+      "last_week": "-",
+      "weeks_on_chart": 15,
+      "view_count": 8010520
+    },
+    {
+      "rank": 97,
+      "title": "Tu Hi Haqeeqat",
+      "artist": "ジェイブド・アリ , Irshad Ashraf &",
+      "last_week": "92",
+      "weeks_on_chart": 2,
+      "view_count": 7974128
+    },
+    {
+      "rank": 98,
+      "title": "Iris",
+      "artist": "グー・グー・ドールズ",
+      "last_week": "76",
+      "weeks_on_chart": 11,
+      "view_count": 7939548
+    },
+    {
+      "rank": 99,
+      "title": "DIA DELÍCIA",
+      "artist": "Nakama , Mc Staff & ΣP",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 7764897
+    },
+    {
+      "rank": 100,
+      "title": "Hawaiian Roller Coaster Ride",
+      "artist": "Iam Tongi & カメハメハスクール児童合唱団",
+      "last_week": "88",
+      "weeks_on_chart": 2,
+      "view_count": 7712139
+    }
+  ]
+}
