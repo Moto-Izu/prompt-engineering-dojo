@@ -1,0 +1,806 @@
+{
+  "region": "kr",
+  "week": "2025-01-16_to_2025-01-22",
+  "videos": [
+    {
+      "rank": 1,
+      "title": "HOME SWEET HOME (feat. SOL (from BIGBANG) & D-LITE (from BIGBANG))",
+      "artist": "G-DRAGON",
+      "last_week": "2",
+      "weeks_on_chart": 8,
+      "view_count": 3243317
+    },
+    {
+      "rank": 2,
+      "title": "APT.",
+      "artist": "ロゼ & ブルーノ・マーズ",
+      "last_week": "1",
+      "weeks_on_chart": 13,
+      "view_count": 3209380
+    },
+    {
+      "rank": 3,
+      "title": "Whiplash",
+      "artist": "aespa",
+      "last_week": "3",
+      "weeks_on_chart": 13,
+      "view_count": 3005333
+    },
+    {
+      "rank": 4,
+      "title": "Drowning (Live)",
+      "artist": "WOODZ",
+      "last_week": "4",
+      "weeks_on_chart": 16,
+      "view_count": 2497705
+    },
+    {
+      "rank": 5,
+      "title": "REBEL HEART",
+      "artist": "IVE",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 2223602
+    },
+    {
+      "rank": 6,
+      "title": "DRIP",
+      "artist": "BABYMONSTER",
+      "last_week": "9",
+      "weeks_on_chart": 11,
+      "view_count": 2122035
+    },
+    {
+      "rank": 7,
+      "title": "toxic till the end",
+      "artist": "ロゼ",
+      "last_week": "5",
+      "weeks_on_chart": 6,
+      "view_count": 2056779
+    },
+    {
+      "rank": 8,
+      "title": "내 이름 맑음",
+      "artist": "QWER",
+      "last_week": "6",
+      "weeks_on_chart": 17,
+      "view_count": 2035152
+    },
+    {
+      "rank": 9,
+      "title": "나는 반딧불 (Live)",
+      "artist": "Hwang Karam",
+      "last_week": "8",
+      "weeks_on_chart": 12,
+      "view_count": 1831428
+    },
+    {
+      "rank": 10,
+      "title": "HAPPY (Live)",
+      "artist": "DAY6",
+      "last_week": "7",
+      "weeks_on_chart": 32,
+      "view_count": 1795010
+    },
+    {
+      "rank": 11,
+      "title": "고민중독",
+      "artist": "QWER",
+      "last_week": "10",
+      "weeks_on_chart": 42,
+      "view_count": 1496608
+    },
+    {
+      "rank": 12,
+      "title": "오늘만 I LOVE YOU",
+      "artist": "BOYNEXTDOOR",
+      "last_week": "16",
+      "weeks_on_chart": 2,
+      "view_count": 1480597
+    },
+    {
+      "rank": 13,
+      "title": "Supernova",
+      "artist": "aespa",
+      "last_week": "13",
+      "weeks_on_chart": 36,
+      "view_count": 1375579
+    },
+    {
+      "rank": 14,
+      "title": "Welcome to the Show",
+      "artist": "DAY6",
+      "last_week": "12",
+      "weeks_on_chart": 44,
+      "view_count": 1370167
+    },
+    {
+      "rank": 15,
+      "title": "포옹",
+      "artist": "RIIZE",
+      "last_week": "68",
+      "weeks_on_chart": 2,
+      "view_count": 1370041
+    },
+    {
+      "rank": 16,
+      "title": "살기 위해서",
+      "artist": "Noel",
+      "last_week": "11",
+      "weeks_on_chart": 5,
+      "view_count": 1345487
+    },
+    {
+      "rank": 17,
+      "title": "Die With A Smile",
+      "artist": "Lady Gaga & ブルーノ・マーズ",
+      "last_week": "21",
+      "weeks_on_chart": 21,
+      "view_count": 1236050
+    },
+    {
+      "rank": 18,
+      "title": "Supernatural",
+      "artist": "NewJeans",
+      "last_week": "15",
+      "weeks_on_chart": 30,
+      "view_count": 1206694
+    },
+    {
+      "rank": 19,
+      "title": "우리의 다정한 계절 속에",
+      "artist": "GFRIEND",
+      "last_week": "57",
+      "weeks_on_chart": 2,
+      "view_count": 1159294
+    },
+    {
+      "rank": 20,
+      "title": "POWER",
+      "artist": "G-DRAGON",
+      "last_week": "14",
+      "weeks_on_chart": 12,
+      "view_count": 1145400
+    },
+    {
+      "rank": 21,
+      "title": "Sudden Shower",
+      "artist": "ECLIPSE",
+      "last_week": "18",
+      "weeks_on_chart": 37,
+      "view_count": 1137123
+    },
+    {
+      "rank": 22,
+      "title": "Heavenly fate",
+      "artist": "チャンソプ",
+      "last_week": "17",
+      "weeks_on_chart": 47,
+      "view_count": 1130392
+    },
+    {
+      "rank": 23,
+      "title": "Armageddon",
+      "artist": "aespa",
+      "last_week": "26",
+      "weeks_on_chart": 34,
+      "view_count": 1104143
+    },
+    {
+      "rank": 24,
+      "title": "너라는 별",
+      "artist": "고추잠자리",
+      "last_week": "20",
+      "weeks_on_chart": 7,
+      "view_count": 1070511
+    },
+    {
+      "rank": 25,
+      "title": "Magnetic",
+      "artist": "ILLIT",
+      "last_week": "22",
+      "weeks_on_chart": 43,
+      "view_count": 1047972
+    },
+    {
+      "rank": 26,
+      "title": "How Sweet",
+      "artist": "NewJeans",
+      "last_week": "23",
+      "weeks_on_chart": 34,
+      "view_count": 1032218
+    },
+    {
+      "rank": 27,
+      "title": "청바지",
+      "artist": "BSS(SEVENTEEN)",
+      "last_week": "52",
+      "weeks_on_chart": 2,
+      "view_count": 997877
+    },
+    {
+      "rank": 28,
+      "title": "너와의 모든 지금 (Live)",
+      "artist": "JAESSBEE",
+      "last_week": "19",
+      "weeks_on_chart": 10,
+      "view_count": 974418
+    },
+    {
+      "rank": 29,
+      "title": "시작의 아이 ハジマリのコ",
+      "artist": "마크툽(MAKTUB)",
+      "last_week": "28",
+      "weeks_on_chart": 2,
+      "view_count": 958889
+    },
+    {
+      "rank": 30,
+      "title": "Love wins all",
+      "artist": "IU",
+      "last_week": "25",
+      "weeks_on_chart": 52,
+      "view_count": 948306
+    },
+    {
+      "rank": 31,
+      "title": "Supersonic",
+      "artist": "fromis_9",
+      "last_week": "29",
+      "weeks_on_chart": 23,
+      "view_count": 946121
+    },
+    {
+      "rank": 32,
+      "title": "Fate",
+      "artist": "(G)I-DLE",
+      "last_week": "30",
+      "weeks_on_chart": 49,
+      "view_count": 942803
+    },
+    {
+      "rank": 33,
+      "title": "Igloo",
+      "artist": "KISS OF LIFE",
+      "last_week": "24",
+      "weeks_on_chart": 13,
+      "view_count": 936360
+    },
+    {
+      "rank": 34,
+      "title": "Small girl (feat. D.O)",
+      "artist": "イ・ヨンジ",
+      "last_week": "31",
+      "weeks_on_chart": 30,
+      "view_count": 932918
+    },
+    {
+      "rank": 35,
+      "title": "If You Ask Me What Love Is",
+      "artist": "ロイ・キム",
+      "last_week": "32",
+      "weeks_on_chart": 14,
+      "view_count": 897098
+    },
+    {
+      "rank": 36,
+      "title": "晩餐歌",
+      "artist": "tuki.",
+      "last_week": "34",
+      "weeks_on_chart": 47,
+      "view_count": 890088
+    },
+    {
+      "rank": 37,
+      "title": "a sad invitation",
+      "artist": "SoonSoonHee",
+      "last_week": "36",
+      "weeks_on_chart": 44,
+      "view_count": 872916
+    },
+    {
+      "rank": 38,
+      "title": "number one girl",
+      "artist": "ロゼ",
+      "last_week": "27",
+      "weeks_on_chart": 8,
+      "view_count": 830256
+    },
+    {
+      "rank": 39,
+      "title": "Mantra",
+      "artist": "ジェニー",
+      "last_week": "33",
+      "weeks_on_chart": 14,
+      "view_count": 800623
+    },
+    {
+      "rank": 40,
+      "title": "Closely Far Away",
+      "artist": "CAR, THE GARDEN",
+      "last_week": "35",
+      "weeks_on_chart": 38,
+      "view_count": 790058
+    },
+    {
+      "rank": 41,
+      "title": "무제(無題) (Untitled, 2014)",
+      "artist": "G-DRAGON",
+      "last_week": "37",
+      "weeks_on_chart": 34,
+      "view_count": 752367
+    },
+    {
+      "rank": 42,
+      "title": "Warmth",
+      "artist": "イム・ヨンウン",
+      "last_week": "41",
+      "weeks_on_chart": 37,
+      "view_count": 744403
+    },
+    {
+      "rank": 43,
+      "title": "ベテルギウス",
+      "artist": "優里",
+      "last_week": "43",
+      "weeks_on_chart": 47,
+      "view_count": 740347
+    },
+    {
+      "rank": 44,
+      "title": "네모네모",
+      "artist": "YENA",
+      "last_week": "38",
+      "weeks_on_chart": 16,
+      "view_count": 722744
+    },
+    {
+      "rank": 45,
+      "title": "Say Yes",
+      "artist": "Loco & Punch",
+      "last_week": "50",
+      "weeks_on_chart": 37,
+      "view_count": 712126
+    },
+    {
+      "rank": 46,
+      "title": "モニタリング (feat. 初音ミク)",
+      "artist": "DECO*27",
+      "last_week": "51",
+      "weeks_on_chart": 7,
+      "view_count": 683765
+    },
+    {
+      "rank": 47,
+      "title": "청춘만화",
+      "artist": "イ・ムジン",
+      "last_week": "39",
+      "weeks_on_chart": 14,
+      "view_count": 682665
+    },
+    {
+      "rank": 48,
+      "title": "Fantastic Baby",
+      "artist": "BIGBANG",
+      "last_week": "55",
+      "weeks_on_chart": 8,
+      "view_count": 679038
+    },
+    {
+      "rank": 49,
+      "title": "Strategy (feat. ミーガン・ジー・スタリオン)",
+      "artist": "TWICE",
+      "last_week": "40",
+      "weeks_on_chart": 6,
+      "view_count": 676029
+    },
+    {
+      "rank": 50,
+      "title": "CROOKED",
+      "artist": "G-DRAGON",
+      "last_week": "42",
+      "weeks_on_chart": 23,
+      "view_count": 674364
+    },
+    {
+      "rank": 51,
+      "title": "벌써 일년",
+      "artist": "Brown Eyes",
+      "last_week": "47",
+      "weeks_on_chart": 35,
+      "view_count": 655145
+    },
+    {
+      "rank": 52,
+      "title": "붉은 노을 (Sunset Glow)",
+      "artist": "BIGBANG",
+      "last_week": "45",
+      "weeks_on_chart": 22,
+      "view_count": 645004
+    },
+    {
+      "rank": 53,
+      "title": "utatane",
+      "artist": "Leina",
+      "last_week": "61",
+      "weeks_on_chart": 2,
+      "view_count": 631202
+    },
+    {
+      "rank": 54,
+      "title": "Cherish (My Love)",
+      "artist": "ILLIT",
+      "last_week": "48",
+      "weeks_on_chart": 13,
+      "view_count": 630704
+    },
+    {
+      "rank": 55,
+      "title": "we were in love(2024)",
+      "artist": "Ko Kyungpyo",
+      "last_week": "46",
+      "weeks_on_chart": 8,
+      "view_count": 621662
+    },
+    {
+      "rank": 56,
+      "title": "첫 눈 (Cover)",
+      "artist": "aespa",
+      "last_week": "56",
+      "weeks_on_chart": 2,
+      "view_count": 616135
+    },
+    {
+      "rank": 57,
+      "title": "luther",
+      "artist": "ケンドリック・ラマー & SZA",
+      "last_week": "59",
+      "weeks_on_chart": 5,
+      "view_count": 588179
+    },
+    {
+      "rank": 58,
+      "title": "맨정신",
+      "artist": "BIGBANG",
+      "last_week": "60",
+      "weeks_on_chart": 8,
+      "view_count": 582189
+    },
+    {
+      "rank": 59,
+      "title": "Skrr (feat. 지젤 (GISELLE))",
+      "artist": "haon",
+      "last_week": "54",
+      "weeks_on_chart": 8,
+      "view_count": 578399
+    },
+    {
+      "rank": 60,
+      "title": "상하이 로맨스 (Shanghai Romance)",
+      "artist": "Orange Caramel",
+      "last_week": "66",
+      "weeks_on_chart": 3,
+      "view_count": 548097
+    },
+    {
+      "rank": 61,
+      "title": "꽃 길 (FLOWER ROAD)",
+      "artist": "BIGBANG",
+      "last_week": "69",
+      "weeks_on_chart": 22,
+      "view_count": 516490
+    },
+    {
+      "rank": 62,
+      "title": "Pump Up The Volume!",
+      "artist": "PLAVE",
+      "last_week": "-",
+      "weeks_on_chart": 6,
+      "view_count": 475053
+    },
+    {
+      "rank": 63,
+      "title": "CRAZY",
+      "artist": "LE SSERAFIM",
+      "last_week": "67",
+      "weeks_on_chart": 20,
+      "view_count": 454265
+    },
+    {
+      "rank": 64,
+      "title": "EVERYTHING",
+      "artist": "The Black Skirts",
+      "last_week": "71",
+      "weeks_on_chart": 11,
+      "view_count": 425855
+    },
+    {
+      "rank": 65,
+      "title": "빌어먹을",
+      "artist": "TimeFeveR",
+      "last_week": "62",
+      "weeks_on_chart": 4,
+      "view_count": 422914
+    },
+    {
+      "rank": 66,
+      "title": "Tick-Tack",
+      "artist": "ILLIT",
+      "last_week": "70",
+      "weeks_on_chart": 9,
+      "view_count": 422543
+    },
+    {
+      "rank": 67,
+      "title": "진짜배기",
+      "artist": "이명화",
+      "last_week": "-",
+      "weeks_on_chart": 4,
+      "view_count": 410953
+    },
+    {
+      "rank": 68,
+      "title": "IF YOU (Live)",
+      "artist": "BIGBANG",
+      "last_week": "82",
+      "weeks_on_chart": 8,
+      "view_count": 402427
+    },
+    {
+      "rank": 69,
+      "title": "Older",
+      "artist": "Sasha Alex Sloan",
+      "last_week": "76",
+      "weeks_on_chart": 8,
+      "view_count": 401127
+    },
+    {
+      "rank": 70,
+      "title": "Don't Look Back In Anger",
+      "artist": "Oasis",
+      "last_week": "87",
+      "weeks_on_chart": 12,
+      "view_count": 400315
+    },
+    {
+      "rank": 71,
+      "title": "オトノケ",
+      "artist": "Creepy Nuts",
+      "last_week": "72",
+      "weeks_on_chart": 10,
+      "view_count": 398091
+    },
+    {
+      "rank": 72,
+      "title": "다시 만난 세계",
+      "artist": "少女時代",
+      "last_week": "73",
+      "weeks_on_chart": 17,
+      "view_count": 396017
+    },
+    {
+      "rank": 73,
+      "title": "톰보이 (TOMBOY)",
+      "artist": "HYUKOH",
+      "last_week": "-",
+      "weeks_on_chart": 29,
+      "view_count": 394370
+    },
+    {
+      "rank": 74,
+      "title": "High High",
+      "artist": "GD&TOP (from BIGBANG)",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 392262
+    },
+    {
+      "rank": 75,
+      "title": "우연",
+      "artist": "Baby V.O.X",
+      "last_week": "63",
+      "weeks_on_chart": 3,
+      "view_count": 391862
+    },
+    {
+      "rank": 76,
+      "title": "미인",
+      "artist": "LEE YEJOON",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 387539
+    },
+    {
+      "rank": 77,
+      "title": "Blue",
+      "artist": "BIGBANG",
+      "last_week": "77",
+      "weeks_on_chart": 9,
+      "view_count": 385972
+    },
+    {
+      "rank": 78,
+      "title": "BIRDS OF A FEATHER",
+      "artist": "ビリー・アイリッシュ",
+      "last_week": "83",
+      "weeks_on_chart": 11,
+      "view_count": 382674
+    },
+    {
+      "rank": 79,
+      "title": "파노라마",
+      "artist": "LEE CHANHYUK",
+      "last_week": "64",
+      "weeks_on_chart": 8,
+      "view_count": 378080
+    },
+    {
+      "rank": 80,
+      "title": "Until I Found You",
+      "artist": "Stephen Sanchez",
+      "last_week": "92",
+      "weeks_on_chart": 19,
+      "view_count": 377052
+    },
+    {
+      "rank": 81,
+      "title": "Jasmine",
+      "artist": "DPR LIVE",
+      "last_week": "96",
+      "weeks_on_chart": 26,
+      "view_count": 374834
+    },
+    {
+      "rank": 82,
+      "title": "우리 사랑하지 말아요",
+      "artist": "BIGBANG",
+      "last_week": "90",
+      "weeks_on_chart": 7,
+      "view_count": 374785
+    },
+    {
+      "rank": 83,
+      "title": "好きだから。",
+      "artist": "『ユイカ』",
+      "last_week": "89",
+      "weeks_on_chart": 17,
+      "view_count": 373726
+    },
+    {
+      "rank": 84,
+      "title": "Gangsta's Paradise (feat. L.V.)",
+      "artist": "クーリオ",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 373257
+    },
+    {
+      "rank": 85,
+      "title": "Overdose",
+      "artist": "なとり",
+      "last_week": "98",
+      "weeks_on_chart": 18,
+      "view_count": 368518
+    },
+    {
+      "rank": 86,
+      "title": "Home Sweet Home",
+      "artist": "CAR, THE GARDEN",
+      "last_week": "80",
+      "weeks_on_chart": 4,
+      "view_count": 368084
+    },
+    {
+      "rank": 87,
+      "title": "Here With Me",
+      "artist": "デイヴィッド",
+      "last_week": "84",
+      "weeks_on_chart": 10,
+      "view_count": 365622
+    },
+    {
+      "rank": 88,
+      "title": "남자를 몰라",
+      "artist": "バズ",
+      "last_week": "78",
+      "weeks_on_chart": 15,
+      "view_count": 360281
+    },
+    {
+      "rank": 89,
+      "title": "Letter To Myself",
+      "artist": "テヨン",
+      "last_week": "85",
+      "weeks_on_chart": 9,
+      "view_count": 357262
+    },
+    {
+      "rank": 90,
+      "title": "HERO (From the Film ″Firefighters″)",
+      "artist": "パク・ヒョシン",
+      "last_week": "58",
+      "weeks_on_chart": 5,
+      "view_count": 356470
+    },
+    {
+      "rank": 91,
+      "title": "이 사랑",
+      "artist": "ダビチ",
+      "last_week": "99",
+      "weeks_on_chart": 13,
+      "view_count": 353317
+    },
+    {
+      "rank": 92,
+      "title": "너였다면",
+      "artist": "Stray Kids",
+      "last_week": "79",
+      "weeks_on_chart": 15,
+      "view_count": 351027
+    },
+    {
+      "rank": 93,
+      "title": "pocket locket",
+      "artist": "Alaina Castillo",
+      "last_week": "-",
+      "weeks_on_chart": 20,
+      "view_count": 350469
+    },
+    {
+      "rank": 94,
+      "title": "집에 가지마",
+      "artist": "GD&TOP (from BIGBANG)",
+      "last_week": "95",
+      "weeks_on_chart": 4,
+      "view_count": 349941
+    },
+    {
+      "rank": 95,
+      "title": "The Beginning Of Love",
+      "artist": "KyoungSeo",
+      "last_week": "53",
+      "weeks_on_chart": 4,
+      "view_count": 349515
+    },
+    {
+      "rank": 96,
+      "title": "개화",
+      "artist": "LUCY",
+      "last_week": "-",
+      "weeks_on_chart": 16,
+      "view_count": 349177
+    },
+    {
+      "rank": 97,
+      "title": "졸업",
+      "artist": "DALDAM",
+      "last_week": "81",
+      "weeks_on_chart": 2,
+      "view_count": 348071
+    },
+    {
+      "rank": 98,
+      "title": "Always be with you",
+      "artist": "ポール・キム",
+      "last_week": "94",
+      "weeks_on_chart": 2,
+      "view_count": 346754
+    },
+    {
+      "rank": 99,
+      "title": "장례희망 (Live)",
+      "artist": "LEE CHANHYUK",
+      "last_week": "65",
+      "weeks_on_chart": 4,
+      "view_count": 340687
+    },
+    {
+      "rank": 100,
+      "title": "녹아내려요",
+      "artist": "DAY6",
+      "last_week": "97",
+      "weeks_on_chart": 18,
+      "view_count": 339356
+    }
+  ]
+}
