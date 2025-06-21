@@ -1,0 +1,806 @@
+{
+  "region": "us",
+  "week": "2025-03-27_to_2025-04-02",
+  "videos": [
+    {
+      "rank": 1,
+      "title": "Die With A Smile",
+      "artist": "Lady Gaga & ブルーノ・マーズ",
+      "last_week": "1",
+      "weeks_on_chart": 32,
+      "view_count": 9148720
+    },
+    {
+      "rank": 2,
+      "title": "El Mayor de los Ranas",
+      "artist": "Victor Valverde & Jr Torres",
+      "last_week": "3",
+      "weeks_on_chart": 13,
+      "view_count": 6704445
+    },
+    {
+      "rank": 3,
+      "title": "APT.",
+      "artist": "ロゼ & ブルーノ・マーズ",
+      "last_week": "4",
+      "weeks_on_chart": 23,
+      "view_count": 6573761
+    },
+    {
+      "rank": 4,
+      "title": "Not Like Us",
+      "artist": "ケンドリック・ラマー",
+      "last_week": "2",
+      "weeks_on_chart": 47,
+      "view_count": 6316210
+    },
+    {
+      "rank": 5,
+      "title": "Lose Control (Live)",
+      "artist": "テディ・スウィムズ",
+      "last_week": "7",
+      "weeks_on_chart": 83,
+      "view_count": 5430121
+    },
+    {
+      "rank": 6,
+      "title": "Beautiful Things",
+      "artist": "Benson Boone",
+      "last_week": "6",
+      "weeks_on_chart": 62,
+      "view_count": 5424620
+    },
+    {
+      "rank": 7,
+      "title": "Anxiety",
+      "artist": "Doechii",
+      "last_week": "5",
+      "weeks_on_chart": 4,
+      "view_count": 5235867
+    },
+    {
+      "rank": 8,
+      "title": "luther",
+      "artist": "ケンドリック・ラマー & SZA",
+      "last_week": "8",
+      "weeks_on_chart": 18,
+      "view_count": 4609588
+    },
+    {
+      "rank": 9,
+      "title": "tv off (feat. Lefty Gunplay)",
+      "artist": "ケンドリック・ラマー",
+      "last_week": "10",
+      "weeks_on_chart": 18,
+      "view_count": 3713637
+    },
+    {
+      "rank": 10,
+      "title": "En Privado",
+      "artist": "Xavi & マヌエル・トゥリソ",
+      "last_week": "11",
+      "weeks_on_chart": 7,
+      "view_count": 3672334
+    },
+    {
+      "rank": 11,
+      "title": "BIRDS OF A FEATHER",
+      "artist": "ビリー・アイリッシュ",
+      "last_week": "12",
+      "weeks_on_chart": 45,
+      "view_count": 3451022
+    },
+    {
+      "rank": 12,
+      "title": "A Bar Song (Tipsy)",
+      "artist": "シャブージー",
+      "last_week": "13",
+      "weeks_on_chart": 50,
+      "view_count": 3022239
+    },
+    {
+      "rank": 13,
+      "title": "Con Otra",
+      "artist": "Cazzu",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 2980330
+    },
+    {
+      "rank": 14,
+      "title": "Espresso",
+      "artist": "サブリナ・カーペンター",
+      "last_week": "15",
+      "weeks_on_chart": 50,
+      "view_count": 2826385
+    },
+    {
+      "rank": 15,
+      "title": "Residuals",
+      "artist": "Chris Brown",
+      "last_week": "14",
+      "weeks_on_chart": 29,
+      "view_count": 2771302
+    },
+    {
+      "rank": 16,
+      "title": "Little Things",
+      "artist": "エラ・メイ",
+      "last_week": "19",
+      "weeks_on_chart": 11,
+      "view_count": 2555444
+    },
+    {
+      "rank": 17,
+      "title": "2AM",
+      "artist": "BigXthaPlug",
+      "last_week": "22",
+      "weeks_on_chart": 24,
+      "view_count": 2519870
+    },
+    {
+      "rank": 18,
+      "title": "squabble up",
+      "artist": "ケンドリック・ラマー",
+      "last_week": "16",
+      "weeks_on_chart": 18,
+      "view_count": 2516060
+    },
+    {
+      "rank": 19,
+      "title": "7 DIAS",
+      "artist": "Gabito Ballesteros & Tito Double P",
+      "last_week": "20",
+      "weeks_on_chart": 3,
+      "view_count": 2415072
+    },
+    {
+      "rank": 20,
+      "title": "ME JALO",
+      "artist": "Fuerza Regida & Grupo Frontera",
+      "last_week": "30",
+      "weeks_on_chart": 8,
+      "view_count": 2409338
+    },
+    {
+      "rank": 21,
+      "title": "Pink Pony Club",
+      "artist": "チャペル・ローン",
+      "last_week": "24",
+      "weeks_on_chart": 27,
+      "view_count": 2391267
+    },
+    {
+      "rank": 22,
+      "title": "Te Quería Ver",
+      "artist": "Alemán & Neton Vega",
+      "last_week": "44",
+      "weeks_on_chart": 7,
+      "view_count": 2299586
+    },
+    {
+      "rank": 23,
+      "title": "Just In Case",
+      "artist": "Morgan Wallen",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 2264263
+    },
+    {
+      "rank": 24,
+      "title": "Loco",
+      "artist": "Neton Vega",
+      "last_week": "33",
+      "weeks_on_chart": 13,
+      "view_count": 2254719
+    },
+    {
+      "rank": 25,
+      "title": "Just Us (feat. ドージャ・キャット)",
+      "artist": "ジャック・ハーロウ",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 2246847
+    },
+    {
+      "rank": 26,
+      "title": "TATTOO",
+      "artist": "Tito Double P",
+      "last_week": "23",
+      "weeks_on_chart": 4,
+      "view_count": 2221998
+    },
+    {
+      "rank": 27,
+      "title": "Sailor Song",
+      "artist": "Gigi Perez",
+      "last_week": "31",
+      "weeks_on_chart": 28,
+      "view_count": 2194950
+    },
+    {
+      "rank": 28,
+      "title": "Tu Boda",
+      "artist": "Óscar Maydon & Fuerza Regida",
+      "last_week": "29",
+      "weeks_on_chart": 24,
+      "view_count": 2148068
+    },
+    {
+      "rank": 29,
+      "title": "WHATCHU KNO ABOUT ME",
+      "artist": "GloRilla & Sexyy Red",
+      "last_week": "37",
+      "weeks_on_chart": 24,
+      "view_count": 2137708
+    },
+    {
+      "rank": 30,
+      "title": "Timeless",
+      "artist": "ザ・ウィークエンド & プレイボーイ・カルティ",
+      "last_week": "40",
+      "weeks_on_chart": 26,
+      "view_count": 2127018
+    },
+    {
+      "rank": 31,
+      "title": "I Had Some Help (feat. Morgan Wallen)",
+      "artist": "ポスト・マローン",
+      "last_week": "35",
+      "weeks_on_chart": 45,
+      "view_count": 2114387
+    },
+    {
+      "rank": 32,
+      "title": "NADIE",
+      "artist": "Tito Double P",
+      "last_week": "34",
+      "weeks_on_chart": 18,
+      "view_count": 2062948
+    },
+    {
+      "rank": 33,
+      "title": "Amor",
+      "artist": "Emmanuel Cortes",
+      "last_week": "43",
+      "weeks_on_chart": 31,
+      "view_count": 2054090
+    },
+    {
+      "rank": 34,
+      "title": "Si Antes Te Hubiera Conocido",
+      "artist": "KAROL G",
+      "last_week": "36",
+      "weeks_on_chart": 40,
+      "view_count": 2043979
+    },
+    {
+      "rank": 35,
+      "title": "MUTT (REMIX)",
+      "artist": "Leon Thomas & フレディ・ギブス",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 1946483
+    },
+    {
+      "rank": 36,
+      "title": "Abracadabra",
+      "artist": "Lady Gaga",
+      "last_week": "28",
+      "weeks_on_chart": 8,
+      "view_count": 1923626
+    },
+    {
+      "rank": 37,
+      "title": "EVIL J0RDAN",
+      "artist": "プレイボーイ・カルティ",
+      "last_week": "9",
+      "weeks_on_chart": 2,
+      "view_count": 1919418
+    },
+    {
+      "rank": 38,
+      "title": "All the Stars",
+      "artist": "ケンドリック・ラマー & SZA",
+      "last_week": "39",
+      "weeks_on_chart": 25,
+      "view_count": 1907183
+    },
+    {
+      "rank": 39,
+      "title": "HOLLYWOOD",
+      "artist": "Peso Pluma & Estevan Plazola",
+      "last_week": "45",
+      "weeks_on_chart": 33,
+      "view_count": 1903071
+    },
+    {
+      "rank": 40,
+      "title": "Shake Dat Ass (Twerk Song)",
+      "artist": "BossMan Dlow",
+      "last_week": "-",
+      "weeks_on_chart": 37,
+      "view_count": 1894577
+    },
+    {
+      "rank": 41,
+      "title": "OIIA OIIA (Spinning Cat)",
+      "artist": "W&W",
+      "last_week": "50",
+      "weeks_on_chart": 6,
+      "view_count": 1887575
+    },
+    {
+      "rank": 42,
+      "title": "Wanna Be",
+      "artist": "GloRilla & ミーガン・ジー・スタリオン",
+      "last_week": "47",
+      "weeks_on_chart": 49,
+      "view_count": 1884790
+    },
+    {
+      "rank": 43,
+      "title": "I'm The Problem",
+      "artist": "Morgan Wallen",
+      "last_week": "49",
+      "weeks_on_chart": 8,
+      "view_count": 1880084
+    },
+    {
+      "rank": 44,
+      "title": "ROSONES",
+      "artist": "Tito Double P",
+      "last_week": "48",
+      "weeks_on_chart": 6,
+      "view_count": 1870389
+    },
+    {
+      "rank": 45,
+      "title": "30 For 30 (feat. ケンドリック・ラマー)",
+      "artist": "SZA",
+      "last_week": "42",
+      "weeks_on_chart": 11,
+      "view_count": 1856179
+    },
+    {
+      "rank": 46,
+      "title": "NOKIA",
+      "artist": "ドレイク",
+      "last_week": "57",
+      "weeks_on_chart": 6,
+      "view_count": 1847624
+    },
+    {
+      "rank": 47,
+      "title": "PRESIDENTE",
+      "artist": "Gabito Ballesteros , ナタナエル・カノ",
+      "last_week": "-",
+      "weeks_on_chart": 21,
+      "view_count": 1845051
+    },
+    {
+      "rank": 48,
+      "title": "I'm A Little Crazy",
+      "artist": "Morgan Wallen",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 1818288
+    },
+    {
+      "rank": 49,
+      "title": "I LUV HER",
+      "artist": "GloRilla & T-ペイン",
+      "last_week": "-",
+      "weeks_on_chart": 22,
+      "view_count": 1776732
+    },
+    {
+      "rank": 50,
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "last_week": "78",
+      "weeks_on_chart": 2,
+      "view_count": 1772493
+    },
+    {
+      "rank": 51,
+      "title": "Ms. Whitman",
+      "artist": "ダニエル・ブレゴリ",
+      "last_week": "25",
+      "weeks_on_chart": 5,
+      "view_count": 1760503
+    },
+    {
+      "rank": 52,
+      "title": "peekaboo (feat. AzChike)",
+      "artist": "ケンドリック・ラマー",
+      "last_week": "52",
+      "weeks_on_chart": 14,
+      "view_count": 1717660
+    },
+    {
+      "rank": 53,
+      "title": "Boots on the Ground",
+      "artist": "803Fresh",
+      "last_week": "72",
+      "weeks_on_chart": 4,
+      "view_count": 1670138
+    },
+    {
+      "rank": 54,
+      "title": "Younger And Hotter Than Me",
+      "artist": "Selena Gomez & Benjamin Levin",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 1669757
+    },
+    {
+      "rank": 55,
+      "title": "Don't Stop Believin' (Live)",
+      "artist": "ジャーニー",
+      "last_week": "59",
+      "weeks_on_chart": 35,
+      "view_count": 1638343
+    },
+    {
+      "rank": 56,
+      "title": "BAILE INoLVIDABLE",
+      "artist": "バッド・バニー",
+      "last_week": "58",
+      "weeks_on_chart": 12,
+      "view_count": 1628763
+    },
+    {
+      "rank": 57,
+      "title": "Dum, Dumb, and Dumber",
+      "artist": "リル・ベイビー , ヤング・サグ & フューチャー",
+      "last_week": "21",
+      "weeks_on_chart": 4,
+      "view_count": 1626903
+    },
+    {
+      "rank": 58,
+      "title": "Trap Queen",
+      "artist": "フェティ・ワップ",
+      "last_week": "63",
+      "weeks_on_chart": 8,
+      "view_count": 1618211
+    },
+    {
+      "rank": 59,
+      "title": "MONA LISA",
+      "artist": "j-hope",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 1580550
+    },
+    {
+      "rank": 60,
+      "title": "DENIAL IS A RIVER",
+      "artist": "Doechii",
+      "last_week": "46",
+      "weeks_on_chart": 13,
+      "view_count": 1567295
+    },
+    {
+      "rank": 61,
+      "title": "That’s So True",
+      "artist": "グレイシー・エイブラムス",
+      "last_week": "53",
+      "weeks_on_chart": 20,
+      "view_count": 1557839
+    },
+    {
+      "rank": 62,
+      "title": "DtMF",
+      "artist": "バッド・バニー",
+      "last_week": "26",
+      "weeks_on_chart": 12,
+      "view_count": 1549431
+    },
+    {
+      "rank": 63,
+      "title": "like JENNIE",
+      "artist": "ジェニー",
+      "last_week": "55",
+      "weeks_on_chart": 3,
+      "view_count": 1520960
+    },
+    {
+      "rank": 64,
+      "title": "Feel It",
+      "artist": "デイヴィッド",
+      "last_week": "89",
+      "weeks_on_chart": 2,
+      "view_count": 1506451
+    },
+    {
+      "rank": 65,
+      "title": "No One Noticed",
+      "artist": "The Marías",
+      "last_week": "77",
+      "weeks_on_chart": 19,
+      "view_count": 1502149
+    },
+    {
+      "rank": 66,
+      "title": "Por Esos Ojos",
+      "artist": "Fuerza Regida",
+      "last_week": "62",
+      "weeks_on_chart": 6,
+      "view_count": 1481634
+    },
+    {
+      "rank": 67,
+      "title": "Morena",
+      "artist": "Neton Vega & Peso Pluma",
+      "last_week": "71",
+      "weeks_on_chart": 6,
+      "view_count": 1456249
+    },
+    {
+      "rank": 68,
+      "title": "La Plena (W Sound 05)",
+      "artist": "W Sound , Beéle & Ovy On The Drums",
+      "last_week": "79",
+      "weeks_on_chart": 2,
+      "view_count": 1448143
+    },
+    {
+      "rank": 69,
+      "title": "Headlock",
+      "artist": "イモージェン・ヒープ",
+      "last_week": "69",
+      "weeks_on_chart": 13,
+      "view_count": 1445028
+    },
+    {
+      "rank": 70,
+      "title": "Ojos Tristes",
+      "artist": "Selena Gomez , Benjamin Levin &",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 1442796
+    },
+    {
+      "rank": 71,
+      "title": "La Bebe (Remix)",
+      "artist": "Yng Lvcas & Peso Pluma",
+      "last_week": "75",
+      "weeks_on_chart": 56,
+      "view_count": 1421719
+    },
+    {
+      "rank": 72,
+      "title": "Tweaker",
+      "artist": "GELO",
+      "last_week": "65",
+      "weeks_on_chart": 12,
+      "view_count": 1382787
+    },
+    {
+      "rank": 73,
+      "title": "Yo Vengo De La Nada",
+      "artist": "Juan Freer & Miguel Cornejo",
+      "last_week": "74",
+      "weeks_on_chart": 12,
+      "view_count": 1382126
+    },
+    {
+      "rank": 74,
+      "title": "OG CRASHOUT",
+      "artist": "ダニエル・ブレゴリ",
+      "last_week": "18",
+      "weeks_on_chart": 3,
+      "view_count": 1366090
+    },
+    {
+      "rank": 75,
+      "title": "Last Night",
+      "artist": "Morgan Wallen",
+      "last_week": "-",
+      "weeks_on_chart": 53,
+      "view_count": 1319038
+    },
+    {
+      "rank": 76,
+      "title": "Thinkin’ Bout Me",
+      "artist": "Morgan Wallen",
+      "last_week": "-",
+      "weeks_on_chart": 49,
+      "view_count": 1311042
+    },
+    {
+      "rank": 77,
+      "title": "chess",
+      "artist": "Joyful",
+      "last_week": "67",
+      "weeks_on_chart": 7,
+      "view_count": 1299556
+    },
+    {
+      "rank": 78,
+      "title": "Riptide",
+      "artist": "James Keogh",
+      "last_week": "88",
+      "weeks_on_chart": 7,
+      "view_count": 1292743
+    },
+    {
+      "rank": 79,
+      "title": "Freestyle",
+      "artist": "リル・ベイビー",
+      "last_week": "95",
+      "weeks_on_chart": 51,
+      "view_count": 1292616
+    },
+    {
+      "rank": 80,
+      "title": "For Me",
+      "artist": "Loe Shimmy",
+      "last_week": "73",
+      "weeks_on_chart": 19,
+      "view_count": 1287803
+    },
+    {
+      "rank": 81,
+      "title": "I Never Lie",
+      "artist": "Zach Top",
+      "last_week": "91",
+      "weeks_on_chart": 4,
+      "view_count": 1282425
+    },
+    {
+      "rank": 82,
+      "title": "Same Way",
+      "artist": "ケビン・ゲーツ",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 1272004
+    },
+    {
+      "rank": 83,
+      "title": "Wondering Why (Live)",
+      "artist": "The Red Clay Strays",
+      "last_week": "81",
+      "weeks_on_chart": 14,
+      "view_count": 1270628
+    },
+    {
+      "rank": 84,
+      "title": "Dark Thoughts",
+      "artist": "リル・テッカ",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 1268031
+    },
+    {
+      "rank": 85,
+      "title": "mi refe",
+      "artist": "Beéle & Ovy On The Drums",
+      "last_week": "84",
+      "weeks_on_chart": 3,
+      "view_count": 1257660
+    },
+    {
+      "rank": 86,
+      "title": "Mo Chicken (feat. フレンチ・モンタナ)",
+      "artist": "BossMan Dlow",
+      "last_week": "83",
+      "weeks_on_chart": 10,
+      "view_count": 1250187
+    },
+    {
+      "rank": 87,
+      "title": "Take On Me",
+      "artist": "a-ha",
+      "last_week": "-",
+      "weeks_on_chart": 28,
+      "view_count": 1241175
+    },
+    {
+      "rank": 88,
+      "title": "Doot Doot (6 7)",
+      "artist": "Skrilla",
+      "last_week": "70",
+      "weeks_on_chart": 6,
+      "view_count": 1226610
+    },
+    {
+      "rank": 89,
+      "title": "Messy",
+      "artist": "ローラ・ヤング",
+      "last_week": "87",
+      "weeks_on_chart": 13,
+      "view_count": 1226411
+    },
+    {
+      "rank": 90,
+      "title": "Smile",
+      "artist": "Morgan Wallen",
+      "last_week": "76",
+      "weeks_on_chart": 13,
+      "view_count": 1213808
+    },
+    {
+      "rank": 91,
+      "title": "NO SON DORITOS",
+      "artist": "CLAVE ESPECIAL & Luis R Conriquez",
+      "last_week": "90",
+      "weeks_on_chart": 19,
+      "view_count": 1213779
+    },
+    {
+      "rank": 92,
+      "title": "Proud Of Me",
+      "artist": "Fridayy & ミーク・ミル",
+      "last_week": "64",
+      "weeks_on_chart": 4,
+      "view_count": 1211004
+    },
+    {
+      "rank": 93,
+      "title": "EoO",
+      "artist": "バッド・バニー",
+      "last_week": "-",
+      "weeks_on_chart": 6,
+      "view_count": 1186487
+    },
+    {
+      "rank": 94,
+      "title": "Fast Car (Live)",
+      "artist": "ルーク・コムズ",
+      "last_week": "-",
+      "weeks_on_chart": 36,
+      "view_count": 1166951
+    },
+    {
+      "rank": 95,
+      "title": "RATHER LIE",
+      "artist": "プレイボーイ・カルティ & ザ・ウィークエンド",
+      "last_week": "17",
+      "weeks_on_chart": 2,
+      "view_count": 1166919
+    },
+    {
+      "rank": 96,
+      "title": "FOMDJ",
+      "artist": "プレイボーイ・カルティ",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 1162972
+    },
+    {
+      "rank": 97,
+      "title": "Zombie",
+      "artist": "クランベリーズ",
+      "last_week": "92",
+      "weeks_on_chart": 6,
+      "view_count": 1155049
+    },
+    {
+      "rank": 98,
+      "title": "Every Breath You Take",
+      "artist": "ポリス",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 1150493
+    },
+    {
+      "rank": 99,
+      "title": "Sleazy Flow (Remix) (feat. リル・ベイビー)",
+      "artist": "SleazyWorld Go",
+      "last_week": "-",
+      "weeks_on_chart": 34,
+      "view_count": 1146633
+    },
+    {
+      "rank": 100,
+      "title": "SI NO ES CONTIGO",
+      "artist": "Cris Mj",
+      "last_week": "-",
+      "weeks_on_chart": 6,
+      "view_count": 1137963
+    }
+  ]
+}
