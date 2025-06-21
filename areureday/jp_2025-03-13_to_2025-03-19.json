@@ -1,0 +1,806 @@
+{
+  "region": "jp",
+  "week": "2025-03-13_to_2025-03-19",
+  "videos": [
+    {
+      "rank": 1,
+      "title": "ライラック",
+      "artist": "Mrs. GREEN APPLE",
+      "last_week": "1",
+      "weeks_on_chart": 48,
+      "view_count": 6505100
+    },
+    {
+      "rank": 2,
+      "title": "BOW AND ARROW",
+      "artist": "米津玄師",
+      "last_week": "3",
+      "weeks_on_chart": 7,
+      "view_count": 5864260
+    },
+    {
+      "rank": 3,
+      "title": "かわいいだけじゃだめですか？",
+      "artist": "CUTIE STREET",
+      "last_week": "5",
+      "weeks_on_chart": 25,
+      "view_count": 4082020
+    },
+    {
+      "rank": 4,
+      "title": "怪獣",
+      "artist": "サカナクション",
+      "last_week": "4",
+      "weeks_on_chart": 4,
+      "view_count": 3743843
+    },
+    {
+      "rank": 5,
+      "title": "UNDEAD",
+      "artist": "YOASOBI",
+      "last_week": "6",
+      "weeks_on_chart": 37,
+      "view_count": 3578011
+    },
+    {
+      "rank": 6,
+      "title": "ダーリン",
+      "artist": "Mrs. GREEN APPLE",
+      "last_week": "7",
+      "weeks_on_chart": 8,
+      "view_count": 3127933
+    },
+    {
+      "rank": 7,
+      "title": "APT.",
+      "artist": "ロゼ & ブルーノ・マーズ",
+      "last_week": "2",
+      "weeks_on_chart": 21,
+      "view_count": 3024616
+    },
+    {
+      "rank": 8,
+      "title": "モニタリング (feat. 初音ミク)",
+      "artist": "DECO*27",
+      "last_week": "10",
+      "weeks_on_chart": 16,
+      "view_count": 2623978
+    },
+    {
+      "rank": 9,
+      "title": "アイドル",
+      "artist": "YOASOBI",
+      "last_week": "8",
+      "weeks_on_chart": 55,
+      "view_count": 2570893
+    },
+    {
+      "rank": 10,
+      "title": "倍倍FIGHT!",
+      "artist": "CANDY TUNE",
+      "last_week": "39",
+      "weeks_on_chart": 4,
+      "view_count": 2525294
+    },
+    {
+      "rank": 11,
+      "title": "doppelgänger",
+      "artist": "Creepy Nuts",
+      "last_week": "17",
+      "weeks_on_chart": 7,
+      "view_count": 2374270
+    },
+    {
+      "rank": 12,
+      "title": "テトリス",
+      "artist": "柊マグネタイト",
+      "last_week": "13",
+      "weeks_on_chart": 18,
+      "view_count": 2246852
+    },
+    {
+      "rank": 13,
+      "title": "Bunny Girl",
+      "artist": "AKASAKI",
+      "last_week": "11",
+      "weeks_on_chart": 23,
+      "view_count": 2174888
+    },
+    {
+      "rank": 14,
+      "title": "HEART",
+      "artist": "King & Prince",
+      "last_week": "78",
+      "weeks_on_chart": 5,
+      "view_count": 2078223
+    },
+    {
+      "rank": 15,
+      "title": "ラブトレ",
+      "artist": "CUTIE STREET",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 2006588
+    },
+    {
+      "rank": 16,
+      "title": "オトノケ",
+      "artist": "Creepy Nuts",
+      "last_week": "16",
+      "weeks_on_chart": 23,
+      "view_count": 1966211
+    },
+    {
+      "rank": 17,
+      "title": "Plazma",
+      "artist": "米津玄師",
+      "last_week": "14",
+      "weeks_on_chart": 8,
+      "view_count": 1955958
+    },
+    {
+      "rank": 18,
+      "title": "はいよろこんで",
+      "artist": "こっちのけんと",
+      "last_week": "15",
+      "weeks_on_chart": 40,
+      "view_count": 1945002
+    },
+    {
+      "rank": 19,
+      "title": "3月9日",
+      "artist": "レミオロメン",
+      "last_week": "49",
+      "weeks_on_chart": 45,
+      "view_count": 1785350
+    },
+    {
+      "rank": 20,
+      "title": "正解",
+      "artist": "RADWIMPS",
+      "last_week": "33",
+      "weeks_on_chart": 29,
+      "view_count": 1746126
+    },
+    {
+      "rank": 21,
+      "title": "Rock This Party",
+      "artist": "timelesz",
+      "last_week": "9",
+      "weeks_on_chart": 2,
+      "view_count": 1688056
+    },
+    {
+      "rank": 22,
+      "title": "テレパシ (feat. 初音ミク)",
+      "artist": "DECO*27",
+      "last_week": "28",
+      "weeks_on_chart": 3,
+      "view_count": 1644286
+    },
+    {
+      "rank": 23,
+      "title": "百花繚乱",
+      "artist": "幾田りら",
+      "last_week": "45",
+      "weeks_on_chart": 8,
+      "view_count": 1593594
+    },
+    {
+      "rank": 24,
+      "title": "雑魚 (feat. Akita Neru)",
+      "artist": "柊マグネタイト",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 1587702
+    },
+    {
+      "rank": 25,
+      "title": "Whiplash",
+      "artist": "aespa",
+      "last_week": "29",
+      "weeks_on_chart": 21,
+      "view_count": 1522518
+    },
+    {
+      "rank": 26,
+      "title": "さよーならまたいつか！- Sayonara",
+      "artist": "米津玄師",
+      "last_week": "24",
+      "weeks_on_chart": 49,
+      "view_count": 1511752
+    },
+    {
+      "rank": 27,
+      "title": "ビターバカンス",
+      "artist": "Mrs. GREEN APPLE",
+      "last_week": "21",
+      "weeks_on_chart": 15,
+      "view_count": 1508013
+    },
+    {
+      "rank": 28,
+      "title": "モエチャッカファイア",
+      "artist": "弌誠",
+      "last_week": "22",
+      "weeks_on_chart": 29,
+      "view_count": 1505084
+    },
+    {
+      "rank": 29,
+      "title": "バリア",
+      "artist": "SixTONES",
+      "last_week": "20",
+      "weeks_on_chart": 4,
+      "view_count": 1493271
+    },
+    {
+      "rank": 30,
+      "title": "DRIP",
+      "artist": "BABYMONSTER",
+      "last_week": "25",
+      "weeks_on_chart": 19,
+      "view_count": 1459915
+    },
+    {
+      "rank": 31,
+      "title": "かがみ (Live)",
+      "artist": "FRUITS ZIPPER",
+      "last_week": "23",
+      "weeks_on_chart": 7,
+      "view_count": 1438602
+    },
+    {
+      "rank": 32,
+      "title": "familie",
+      "artist": "Mrs. GREEN APPLE",
+      "last_week": "27",
+      "weeks_on_chart": 31,
+      "view_count": 1426210
+    },
+    {
+      "rank": 33,
+      "title": "YELLOW",
+      "artist": "TREASURE",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 1412846
+    },
+    {
+      "rank": 34,
+      "title": "IS THIS LOVE",
+      "artist": "XG",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 1328798
+    },
+    {
+      "rank": 35,
+      "title": "ビビデバ",
+      "artist": "星街すいせい",
+      "last_week": "32",
+      "weeks_on_chart": 51,
+      "view_count": 1318673
+    },
+    {
+      "rank": 36,
+      "title": "Drop",
+      "artist": "HANA",
+      "last_week": "19",
+      "weeks_on_chart": 6,
+      "view_count": 1310087
+    },
+    {
+      "rank": 37,
+      "title": "Lovin' (Live)",
+      "artist": "Mrs. GREEN APPLE",
+      "last_week": "18",
+      "weeks_on_chart": 9,
+      "view_count": 1264373
+    },
+    {
+      "rank": 38,
+      "title": "GOD_i",
+      "artist": "Number_i",
+      "last_week": "30",
+      "weeks_on_chart": 7,
+      "view_count": 1179333
+    },
+    {
+      "rank": 39,
+      "title": "ひたむきシンデレラ！",
+      "artist": "CUTIE STREET",
+      "last_week": "35",
+      "weeks_on_chart": 10,
+      "view_count": 1178723
+    },
+    {
+      "rank": 40,
+      "title": "Spacecraft",
+      "artist": "BE:FIRST",
+      "last_week": "26",
+      "weeks_on_chart": 6,
+      "view_count": 1167406
+    },
+    {
+      "rank": 41,
+      "title": "SBY",
+      "artist": "Snow Man",
+      "last_week": "34",
+      "weeks_on_chart": 11,
+      "view_count": 1161591
+    },
+    {
+      "rank": 42,
+      "title": "Pretender",
+      "artist": "Official髭男dism",
+      "last_week": "37",
+      "weeks_on_chart": 61,
+      "view_count": 1160302
+    },
+    {
+      "rank": 43,
+      "title": "RUN (Live)",
+      "artist": "timelesz",
+      "last_week": "60",
+      "weeks_on_chart": 9,
+      "view_count": 1152190
+    },
+    {
+      "rank": 44,
+      "title": "I wonder",
+      "artist": "Da-iCE",
+      "last_week": "36",
+      "weeks_on_chart": 47,
+      "view_count": 1109190
+    },
+    {
+      "rank": 45,
+      "title": "僕らまた",
+      "artist": "SG",
+      "last_week": "-",
+      "weeks_on_chart": 36,
+      "view_count": 1093590
+    },
+    {
+      "rank": 46,
+      "title": "走れSAKAMOTO",
+      "artist": "Vaundy",
+      "last_week": "31",
+      "weeks_on_chart": 7,
+      "view_count": 1069761
+    },
+    {
+      "rank": 47,
+      "title": "Strawberry Breakfast",
+      "artist": "SixTONES",
+      "last_week": "-",
+      "weeks_on_chart": 24,
+      "view_count": 1063989
+    },
+    {
+      "rank": 48,
+      "title": "masshiro (pure white)",
+      "artist": "藤井 風",
+      "last_week": "12",
+      "weeks_on_chart": 2,
+      "view_count": 1059031
+    },
+    {
+      "rank": 49,
+      "title": "ファタール",
+      "artist": "GEMN , 中島健人 & キタニタツヤ",
+      "last_week": "41",
+      "weeks_on_chart": 36,
+      "view_count": 1041712
+    },
+    {
+      "rank": 50,
+      "title": "コロンブス(Live)",
+      "artist": "Mrs. GREEN APPLE",
+      "last_week": "38",
+      "weeks_on_chart": 39,
+      "view_count": 1031311
+    },
+    {
+      "rank": 51,
+      "title": "可愛くてごめん (feat. ちゅーたん(CV:早見沙織))",
+      "artist": "HoneyWorks",
+      "last_week": "-",
+      "weeks_on_chart": 54,
+      "view_count": 909485
+    },
+    {
+      "rank": 52,
+      "title": "Miss Luxury",
+      "artist": "YZERR , LANA , JP THE WAVY &",
+      "last_week": "44",
+      "weeks_on_chart": 4,
+      "view_count": 903018
+    },
+    {
+      "rank": 53,
+      "title": "イイじゃん",
+      "artist": "M!LK",
+      "last_week": "93",
+      "weeks_on_chart": 2,
+      "view_count": 900481
+    },
+    {
+      "rank": 54,
+      "title": "Almond Chocolate",
+      "artist": "ILLIT",
+      "last_week": "100",
+      "weeks_on_chart": 4,
+      "view_count": 887265
+    },
+    {
+      "rank": 55,
+      "title": "守りたい、その笑顔",
+      "artist": "Snow Man",
+      "last_week": "42",
+      "weeks_on_chart": 5,
+      "view_count": 878538
+    },
+    {
+      "rank": 56,
+      "title": "エルフ",
+      "artist": "Ado",
+      "last_week": "50",
+      "weeks_on_chart": 7,
+      "view_count": 869082
+    },
+    {
+      "rank": 57,
+      "title": "キャンディークッキーチョコレート (feat. 初音ミク & 重音テト)",
+      "artist": "はろける",
+      "last_week": "43",
+      "weeks_on_chart": 10,
+      "view_count": 853316
+    },
+    {
+      "rank": 58,
+      "title": "like JENNIE",
+      "artist": "ジェニー",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 818633
+    },
+    {
+      "rank": 59,
+      "title": "Strategy (feat. ミーガン・ジー・スタリオン)",
+      "artist": "TWICE",
+      "last_week": "52",
+      "weeks_on_chart": 14,
+      "view_count": 799686
+    },
+    {
+      "rank": 60,
+      "title": "ATTITUDE",
+      "artist": "IVE",
+      "last_week": "53",
+      "weeks_on_chart": 6,
+      "view_count": 790958
+    },
+    {
+      "rank": 61,
+      "title": "恋をして",
+      "artist": "HY",
+      "last_week": "48",
+      "weeks_on_chart": 9,
+      "view_count": 777118
+    },
+    {
+      "rank": 62,
+      "title": "風神",
+      "artist": "Vaundy",
+      "last_week": "56",
+      "weeks_on_chart": 19,
+      "view_count": 750720
+    },
+    {
+      "rank": 63,
+      "title": "LOVE PHANTOM (Live)",
+      "artist": "B'z",
+      "last_week": "54",
+      "weeks_on_chart": 10,
+      "view_count": 747614
+    },
+    {
+      "rank": 64,
+      "title": "マリーゴールド",
+      "artist": "あいみょん",
+      "last_week": "61",
+      "weeks_on_chart": 55,
+      "view_count": 739177
+    },
+    {
+      "rank": 65,
+      "title": "アスノヨゾラ哨戒班 (feat. IA)",
+      "artist": "Orangestar",
+      "last_week": "-",
+      "weeks_on_chart": 32,
+      "view_count": 728916
+    },
+    {
+      "rank": 66,
+      "title": "Tokyo Crazy Night",
+      "artist": "Travis Japan",
+      "last_week": "99",
+      "weeks_on_chart": 2,
+      "view_count": 715508
+    },
+    {
+      "rank": 67,
+      "title": "オレンジ",
+      "artist": "SPYAIR",
+      "last_week": "-",
+      "weeks_on_chart": 30,
+      "view_count": 713264
+    },
+    {
+      "rank": 68,
+      "title": "REBEL HEART",
+      "artist": "IVE",
+      "last_week": "57",
+      "weeks_on_chart": 9,
+      "view_count": 712848
+    },
+    {
+      "rank": 69,
+      "title": "KING (feat. GUMI)",
+      "artist": "Kanaria",
+      "last_week": "-",
+      "weeks_on_chart": 32,
+      "view_count": 686224
+    },
+    {
+      "rank": 70,
+      "title": "夜に駆ける",
+      "artist": "YOASOBI",
+      "last_week": "68",
+      "weeks_on_chart": 55,
+      "view_count": 666889
+    },
+    {
+      "rank": 71,
+      "title": "愛をこめて花束を",
+      "artist": "Superfly",
+      "last_week": "-",
+      "weeks_on_chart": 36,
+      "view_count": 662830
+    },
+    {
+      "rank": 72,
+      "title": "キス・ミー・パティシエ",
+      "artist": "CANDY TUNE",
+      "last_week": "67",
+      "weeks_on_chart": 10,
+      "view_count": 660008
+    },
+    {
+      "rank": 73,
+      "title": "I still",
+      "artist": "milet",
+      "last_week": "64",
+      "weeks_on_chart": 3,
+      "view_count": 657035
+    },
+    {
+      "rank": 74,
+      "title": "気まぐれロマンティック",
+      "artist": "いきものがかり",
+      "last_week": "62",
+      "weeks_on_chart": 10,
+      "view_count": 648372
+    },
+    {
+      "rank": 75,
+      "title": "AlwayS",
+      "artist": "NiziU",
+      "last_week": "55",
+      "weeks_on_chart": 12,
+      "view_count": 638186
+    },
+    {
+      "rank": 76,
+      "title": "ア・プリオリ(Live)",
+      "artist": "Mrs. GREEN APPLE",
+      "last_week": "51",
+      "weeks_on_chart": 4,
+      "view_count": 635529
+    },
+    {
+      "rank": 77,
+      "title": "MECHA-MECHA",
+      "artist": "MECHATU-A",
+      "last_week": "40",
+      "weeks_on_chart": 3,
+      "view_count": 631605
+    },
+    {
+      "rank": 78,
+      "title": "ReawakeR (feat. Felix of Stray Kids)",
+      "artist": "LiSA",
+      "last_week": "92",
+      "weeks_on_chart": 3,
+      "view_count": 627699
+    },
+    {
+      "rank": 79,
+      "title": "また逢う日まで",
+      "artist": "平井 大",
+      "last_week": "63",
+      "weeks_on_chart": 2,
+      "view_count": 626924
+    },
+    {
+      "rank": 80,
+      "title": "Loneliness (Live)",
+      "artist": "Mrs. GREEN APPLE",
+      "last_week": "47",
+      "weeks_on_chart": 4,
+      "view_count": 624341
+    },
+    {
+      "rank": 81,
+      "title": "明日の私に幸あれ",
+      "artist": "ナナヲアカリ",
+      "last_week": "80",
+      "weeks_on_chart": 3,
+      "view_count": 621249
+    },
+    {
+      "rank": 82,
+      "title": "Die With A Smile",
+      "artist": "Lady Gaga & ブルーノ・マーズ",
+      "last_week": "82",
+      "weeks_on_chart": 18,
+      "view_count": 600013
+    },
+    {
+      "rank": 83,
+      "title": "赤毛 (feat. 初音ミク)",
+      "artist": "SmilyBruh",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 571474
+    },
+    {
+      "rank": 84,
+      "title": "ねっこ",
+      "artist": "King Gnu",
+      "last_week": "77",
+      "weeks_on_chart": 17,
+      "view_count": 561408
+    },
+    {
+      "rank": 85,
+      "title": "Say I do",
+      "artist": "Travis Japan",
+      "last_week": "65",
+      "weeks_on_chart": 2,
+      "view_count": 560361
+    },
+    {
+      "rank": 86,
+      "title": "Purple Rain",
+      "artist": "timelesz",
+      "last_week": "-",
+      "weeks_on_chart": 2,
+      "view_count": 550668
+    },
+    {
+      "rank": 87,
+      "title": "Uni-Verse",
+      "artist": "オーイシマサヨシ",
+      "last_week": "-",
+      "weeks_on_chart": 5,
+      "view_count": 547771
+    },
+    {
+      "rank": 88,
+      "title": "I・だって止まらない",
+      "artist": "Snow Man",
+      "last_week": "79",
+      "weeks_on_chart": 5,
+      "view_count": 537650
+    },
+    {
+      "rank": 89,
+      "title": "アイサレタイ",
+      "artist": "Yumcha",
+      "last_week": "76",
+      "weeks_on_chart": 11,
+      "view_count": 530857
+    },
+    {
+      "rank": 90,
+      "title": "シークレットラブ",
+      "artist": "ピラフ星人",
+      "last_week": "70",
+      "weeks_on_chart": 2,
+      "view_count": 524798
+    },
+    {
+      "rank": 91,
+      "title": "7 Variations on Twinkle Twinkle Little Star",
+      "artist": "角野隼斗",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 521175
+    },
+    {
+      "rank": 92,
+      "title": "ニュー・マイ・ノーマル (Live)",
+      "artist": "Mrs. GREEN APPLE",
+      "last_week": "87",
+      "weeks_on_chart": 19,
+      "view_count": 519853
+    },
+    {
+      "rank": 93,
+      "title": "동갑내기",
+      "artist": "HOSHI (SEVENTEEN) &",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 519665
+    },
+    {
+      "rank": 94,
+      "title": "キスキツネ",
+      "artist": "HIMEHINA",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 515681
+    },
+    {
+      "rank": 95,
+      "title": "Sweet Dreams (feat. ミゲル)",
+      "artist": "j-hope",
+      "last_week": "-",
+      "weeks_on_chart": 1,
+      "view_count": 515429
+    },
+    {
+      "rank": 96,
+      "title": "み む かゥ わ ナ イ ス ト ラ イ",
+      "artist": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ",
+      "last_week": "74",
+      "weeks_on_chart": 13,
+      "view_count": 513478
+    },
+    {
+      "rank": 97,
+      "title": "友よ ～ この先もずっと･･･",
+      "artist": "ケツメイシ",
+      "last_week": "-",
+      "weeks_on_chart": 30,
+      "view_count": 505333
+    },
+    {
+      "rank": 98,
+      "title": "NG",
+      "artist": "ちゃんみな",
+      "last_week": "81",
+      "weeks_on_chart": 15,
+      "view_count": 493374
+    },
+    {
+      "rank": 99,
+      "title": "へび",
+      "artist": "ヨルシカ",
+      "last_week": "69",
+      "weeks_on_chart": 5,
+      "view_count": 484688
+    },
+    {
+      "rank": 100,
+      "title": "キセキ",
+      "artist": "GRe4N BOYZ",
+      "last_week": "-",
+      "weeks_on_chart": 29,
+      "view_count": 480778
+    }
+  ]
+}
